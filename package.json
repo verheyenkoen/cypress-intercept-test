@@ -1,0 +1,10 @@
+{
+  "name": "cypress-intercept-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Koen Verheyen <verheyen.koen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
